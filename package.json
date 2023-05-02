@@ -1,0 +1,16 @@
+{
+  "name": "esp-firmata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "etherport-client": "^0.1.4",
+    "johnny-five": "^2.1.0"
+  }
+}
